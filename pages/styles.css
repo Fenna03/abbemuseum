@@ -30,26 +30,54 @@ body{
 
 
 #flex {
+    flex-direction: column;
     margin-top: 25px;
     margin-left: 25px;
     display: flex;
-    width: 500px;
+    width: 400px;
     height: 225px;
     background: #bcf5bc;
     border-radius: 10px;
  }
 
  #flex1 {
+    flex-direction: column;
     margin-left: 25px;
     margin-top: 50px;
     display: flex;
-    width: 500px;
+    width: 400px;
+    height: 225px;
+    background: #bcf5bc;
+    border-radius: 10px;
+ }
+
+ #flex2 {
+    flex-direction: column;
+    margin-left: 25px;
+    margin-top: 25px;
+    display: flex;
+    width: 400px;
+    height: 225px;
+    background: #bcf5bc;
+    border-radius: 10px;
+ }
+ #flex3 {
+    flex-direction: column;
+    margin-left: 25px;
+    margin-top: 50px;
+    display: flex;
+    width: 400px;
     height: 225px;
     background: #bcf5bc;
     border-radius: 10px;
  }
 
  #flexer {
+    display: flex;
+    flex-direction: column;
+ }
+
+ #flexer2 {
     display: flex;
     flex-direction: column;
  }
