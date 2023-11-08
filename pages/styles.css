@@ -1,0 +1,55 @@
+body{
+    background-color: #a6f2a6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Youknowit{
+    display: flex;
+}
+
+#box{
+    margin-left: 25px;
+    margin-top: 25px;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    background: #bcf5bc;
+}
+
+#introduction{
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#fuckthis {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+#flex {
+    margin-top: 25px;
+    margin-left: 25px;
+    display: flex;
+    width: 500px;
+    height: 225px;
+    background: #bcf5bc;
+    border-radius: 10px;
+ }
+
+ #flex1 {
+    margin-left: 25px;
+    margin-top: 50px;
+    display: flex;
+    width: 500px;
+    height: 225px;
+    background: #bcf5bc;
+    border-radius: 10px;
+ }
+
+ #flexer {
+    display: flex;
+    flex-direction: column;
+ }
